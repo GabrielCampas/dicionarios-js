@@ -98,4 +98,4 @@ console.log("--- mapa.delete ---");
 // deletando uma chave
 mapa.delete("idade");
 console.log("'mapa.delete('idade'));' \u2190 Idade foi removida, vai retornar \x1b[31mfalse\x1b[0m.")
-console.log("\u2192",mapa.has("idade"));
+console.log("\u2192", mapa.has("idade"));
